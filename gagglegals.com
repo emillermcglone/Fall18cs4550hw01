@@ -4,7 +4,7 @@ server {
         listen 80;
         listen [::]:80;
 
-        root /home/emily/www/gagglegals.com;
+        root /home/emily/www/hw01.gagglegals.com;
 
         index index.html;
 
